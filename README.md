@@ -1,4 +1,4 @@
-ConfidentialMessenger is a POC chat application I developed for a client. I will be expanding on the application introducing new features and also making it production-ready.
+ConfidentialMessenger is a POC chat application I developed for a client. I will be expanding on the application introducing new features and also making it production-ready. The client repository where I originally pushed the code to is at: https://github.com/stefanotempesta/ConfidentialMessenger
 
 ConfidentialMessenger is a web chat application that demonstrates the use of Azure confidential computing features to protect data. The application builds on a simple web chat application enhancing the system's protection of sensitive data by using Azure's confidential computing technologies. 
 The two ways the contact list is to be stored is: 
