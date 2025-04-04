@@ -1,5 +1,3 @@
-ConfidentialMessenger is a POC chat application I developed for a client. I will be expanding on the application introducing new features and also making it production-ready. The client repository where I originally pushed the code to is at: https://github.com/stefanotempesta/ConfidentialMessenger
-
 ConfidentialMessenger is a web chat application that demonstrates the use of Azure confidential computing features to protect data. The application builds on a simple web chat application enhancing the system's protection of sensitive data by using Azure's confidential computing technologies. 
 The two ways the contact list is to be stored is: 
   a. stored in a confidential database created in this way,confidential database you create in this way: https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-enclaves?view=sql-server-ver15
@@ -60,4 +58,7 @@ The ConfidentialMessenger is the .NET Core/C# web chat application. It is design
 6. Create an NGINX service to host the web application. Refer to the following resource:
     https://hbhhathorn.medium.com/install-an-asp-net-core-web-api-on-linux-ubuntu-18-04-and-host-with-nginx-and-ssl-2ed9df7371fb
 5. Open a browser and navigate to the web application.
+
+ConfidentialMessenger is a POC chat application I developed for a client. The client repository is: https://github.com/stefanotempesta/ConfidentialMessenger
+
 
